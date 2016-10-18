@@ -1,0 +1,3 @@
+
+
+[Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
